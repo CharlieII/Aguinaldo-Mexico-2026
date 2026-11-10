@@ -12,7 +12,7 @@
 
 </div>
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > **Precisión legal sobre la exención:** el aguinaldo está exento de ISR hasta **30 UMA diarias**, no 30 veces la UMA anual. Para 2026: `30 × $117.31 = $3,519.30`. Si se usara `30 × UMA anual`, el exento sería `$1,283,839.20`, muy superior al criterio legal y al que revisa el SAT.
 
 > [!WARNING]
