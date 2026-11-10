@@ -503,6 +503,16 @@ No es necesario modificar `Code.gs` para cambiar valores, siempre que se conserv
 
 **Última revisión de parámetros:** 09/11/2026.
 
+## ☕ Apoya el Proyecto
+
+Consultar leyes y normas vigentes en el territorio mexicano, toma tiempo y café. Si te ha sido útil este proyecto y quieres apoyar, ¡será muy bienvenido!
+
+<div align="center">
+  <a href="https://ko-fi.com/charlieii" target="_blank">
+    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy Me a Coffee at ko-fi.com" height="40">
+  </a>
+</div>
+
 ---
 
 ## Licencia
